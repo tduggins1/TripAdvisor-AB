@@ -24,6 +24,8 @@ body {
   box-sizing: border-box;
 }
 
+
+
 h1 {
   letter-spacing: 1.1px;
   font-size: 54px;
@@ -233,6 +235,11 @@ main .container {
 }
 
 /* ----- Pictures ----- */
+
+main .hero {
+    height: 300px;
+  }
+
 
 .pictures {
   display: flex;
